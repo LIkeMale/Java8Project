@@ -1,0 +1,35 @@
+
+d
+java:S1854"BRemove this useless assignment to local variable "parallelStream".(ºÈ´×øÿÿÿÿ8÷Ì¦Éä/
+W
+java:S1854":Remove this useless assignment to local variable "stream".(ææ–8÷Ì¦Éä/
+H
+java:S1481"+Remove this unused "stream" local variable.(ææ–8üÌ¦Éä/
+U
+java:S1481"3Remove this unused "parallelStream" local variable.(ºÈ´×øÿÿÿÿ8ıÌ¦Éä/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ı­ûğüÿÿÿÿ8ıÌ¦Éä/
+H
+java:S2201"+The return value of "collect" must be used.(ª™¨¹8şÌ¦Éä/
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8şÌ¦Éä/
+H
+java:S2201"+The return value of "collect" must be used.(ª™¨¹8Í¦Éä/
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8Í¦Éä/
+^
+java:S1612"AReplace this lambda with method reference 'UmsPermission::getId'.(…æ¹œ8ƒÍ¦Éä/
+H
+java:S2201"+The return value of "collect" must be used.(–‹¶•8„Í¦Éä/
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(–‹¶•8„Í¦Éä/
+F
+java:S2201")The return value of "count" must be used.(Ù Ëû8…Í¦Éä/
+e
+java:S1612"CReplace this lambda with method reference 'UmsPermission::getType'.(ËˆáÕúÿÿÿÿ8†Í¦Éä/
+T	java:S106"9Replace this use of System.out or System.err by a logger.(¥±ÿ"8ˆÍ¦Éä/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Í™Î‡8‰Í¦Éä/
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(Şä–Ïøÿÿÿÿ8ŠÍ¦Éä/
+7
+java:S1220""Move this file to a named package.8Í¦Éä/
+T
+java:S3958"2Refactor the code so this stream pipeline is used.(ËˆáÕúÿÿÿÿ8™Í¦Éä/

@@ -1,0 +1,22 @@
+
+Q
+java:S3740"/Provide the parametrized type for this generic.(Ã”…Ñüÿÿÿÿ8Ó²Èšã/
+Q
+java:S3740"/Provide the parametrized type for this generic.(Ã”…Ñüÿÿÿÿ8Ô²Èšã/
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÚÏ¢›
+W
+java:S1854"5Remove this useless assignment to local variable "L".(Ã”…Ñüÿÿÿÿ8œõÌšã/
+J
+java:S1854"5Remove this useless assignment to local variable "a".(öøçS
+;
+java:S1481"&Remove this unused "a" local variable.(öøçS
+H
+java:S1481"&Remove this unused "L" local variable.(Ã”…Ñüÿÿÿÿ8ŸõÌšã/
+U
+java:S1612"8Replace this lambda with method reference 'Person::eat'.(Ö›Óˆ8 õÌšã/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ç °ıÿÿÿÿ
+=
+java:S1068"'Remove this unused "num" private field.(¹û›†
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã”…Ñüÿÿÿÿ8è²Èšã/
+0
+java:S1220""Move this file to a named package.

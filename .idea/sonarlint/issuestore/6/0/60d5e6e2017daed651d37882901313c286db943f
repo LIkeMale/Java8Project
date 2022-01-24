@@ -1,0 +1,15 @@
+
+V
+java:S1854";Remove this useless assignment to local variable "outStr1".(µíÈÁşÿÿÿÿ
+J
+java:S1611"/Remove the parentheses around the "s" parameter(µíÈÁşÿÿÿÿ
+n
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(µíÈÁşÿÿÿÿ
+_
+java:S1612"DReplace this lambda with method reference 'MyStringOps::strReverse'.(µíÈÁşÿÿÿÿ
+G
+java:S1481",Remove this unused "outStr1" local variable.(µíÈÁşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¶ù¨†ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ê†¤šüÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
